@@ -14,3 +14,10 @@ inflatable_boat
 paper_boat
 buoy
 freight_boat
+
+
+
+1. My Approach :
+
+      # Tuned Inception Resnet : Score 83.333 LB 55
+      # Used FastAI with Data preparation : Score 91.111 LB 30
